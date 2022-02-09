@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "beholdertech:item/gold_oreroot_seeds"
+  }
+}

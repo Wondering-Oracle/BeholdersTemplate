@@ -1,0 +1,15 @@
+{
+  "item.beholdertech.goldendrop_seeds": "Goldendrop Seeds",
+  "item.beholdertech.ferrel_seeds": "Ferrel Seeds",
+  "item.beholdertech.gold_oreroot_seeds": "Gold Oreroot Seeds",
+  "item.beholdertech.iron_oreroot_seeds": "Iron Oreroot Seeds",
+  "item.beholdertech.copper_oreroot_seeds": "Copper Oreroot Seeds",
+  "item.beholdertech.goldendrop": "Goldendrop Hay",
+  "item.beholdertech.ferrel": "Ferrel Hay",
+
+  "block.beholdertech.goldendrop": "Goldendrop",
+  "block.beholdertech.ferrel": "Ferrel",
+  "block.beholdertech.gold_oreroot": "Gold Oreroot",
+  "block.beholdertech.iron_oreroot": "Iron Oreroot",
+  "block.beholdertech.copper_oreroot": "Copper Oreroot"
+}

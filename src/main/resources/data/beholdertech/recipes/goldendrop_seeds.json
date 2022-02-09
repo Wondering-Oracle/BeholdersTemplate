@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I N",
+    " # ",
+    "B P"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:gold_ingot"
+    },
+    "N": {
+      "item": "minecraft:gold_nugget"
+    },
+    "#": {
+      "item": "beholdertech:metamorphic_wheat_seeds"
+    },
+    "P": {
+      "item": "minecraft:blaze_powder"
+    },
+    "B": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "item": "beholdertech:goldendrop_seeds"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B R",
+    " # ",
+    "L P"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:raw_copper_block"
+    },
+    "R": {
+      "item": "minecraft:raw_copper"
+    },
+    "#": {
+      "item": "beholdertech:metamorphic_beetroot_seeds"
+    },
+    "P": {
+      "item": "minecraft:blaze_powder"
+    },
+    "L": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "item": "beholdertech:copper_oreroot_seeds"
+  }
+}

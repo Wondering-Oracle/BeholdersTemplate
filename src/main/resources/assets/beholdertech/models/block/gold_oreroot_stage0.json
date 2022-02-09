@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "beholdertech:block/gold_oreroot_stage0"
+  }
+}
