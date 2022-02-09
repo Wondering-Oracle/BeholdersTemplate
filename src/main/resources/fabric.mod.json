@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "beholdertech",
+  "id": "placeholder",
   "version": "${version}",
 
-  "name": "BeholderTech",
-  "description": "Just another tech mod.",
+  "name": "Placeholder",
+  "description": "-",
   "authors": [
     "Wondering-Oracle"
   ],
@@ -14,16 +14,16 @@
   },
 
   "license": "MIT",
-  "icon": "assets/beholdertch/icon.png",
+  "icon": "assets/placeholder/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.silicateseer.beholdertech.BeholderTech"
+      "com.silicateseer.placeholder.Placeholder"
     ]
   },
   "mixins": [
-    "beholdertech.mixins.json"
+    "placeholder.mixins.json"
   ],
 
   "depends": {

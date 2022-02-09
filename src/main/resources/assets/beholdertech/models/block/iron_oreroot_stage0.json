@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/crop",
-  "textures": {
-    "crop": "beholdertech:block/iron_oreroot_stage0"
-  }
-}
